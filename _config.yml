@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "电子版.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
