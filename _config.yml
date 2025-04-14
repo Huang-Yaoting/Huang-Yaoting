@@ -11,7 +11,7 @@ title                    : "Yaoting's Homepage"
 title_separator          : "-"
 name                     : &name "Huang Yaoting"
 description              : &description "黄耀霆"
-url                      : https://Huang-Yaoting.github.io
+url                      : "https://Huang-Yaoting.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Huang-Yaoting/Huang-Yaoting.github.io"
 
